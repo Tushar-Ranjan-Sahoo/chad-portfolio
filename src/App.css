@@ -601,7 +601,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
         .main-timeline .timeline-content {
           width: 50%;
           padding: 0 50px;
-          margin: 52px 0 0 0;
+          margin: 52px 0 0 ;
           float: right;
           position: relative;
         }
